@@ -1,0 +1,20 @@
+{
+  "name": "nextra-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.3",
+    "nextra": "^0.3.1",
+    "nextra-theme-docs": "^0.3.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
